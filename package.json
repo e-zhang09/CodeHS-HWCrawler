@@ -15,7 +15,7 @@
     "puppeteer": "^2.0.0",
     "string-format": "^2.0.0",
     "terminal-link": "^2.1.1",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {},
   "scripts": {
